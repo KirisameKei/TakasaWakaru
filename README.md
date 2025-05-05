@@ -10,15 +10,15 @@
 - Forge、Optifine→[Optifine](https://optifine.net/downloads)が必要です。
 - Fabric→[Continuity](https://modrinth.com/mod/continuity/version/2.0.1+1.18.2)が必要です。
 
-**サポート**  
-[KirisameKeiのdiscordサーバ](https://discord.gg/nrvMKBT)にて行います。
-
 **ライセンス**  
 - MITライセンスに基づきます。
 - 詳細はLICENSE.txtを参照してください。
 
+**サポート**  
+[KirisameKeiのdiscordサーバ](https://discord.gg/nrvMKBT)にて行います。
+
 **制作環境**  
-- fabric-loader-0.16.14-1.18.2
+fabric-loader-0.16.14-1.18.2
 
 **更新履歴**  
 - 2022.01.12 Kuriがver1.12.2用に作成
