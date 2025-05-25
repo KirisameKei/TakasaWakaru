@@ -8,7 +8,7 @@
 - 好みの高さに変えたい場合は中のa.propertiesファイルのheightsを自分で変えてください。
 
 **導入**  
-- 希望の段数のzipファイルををresourcepacksディレクトリ内に配置してください。
+- 希望の段数のzipファイルをresourcepacksディレクトリ内に配置してください。
 - Fabric→[Continuity](https://modrinth.com/mod/continuity/version/2.0.1+1.18.2)が必要です。Continuity以外にもCTMテクスチャを使用できるようにするMODがありますがサポート対象外とします。
 - Sodiumを使用する場合[Indium](https://modrinth.com/mod/indium/version/1.0.7+mc1.18.2)も必要になります。
 
