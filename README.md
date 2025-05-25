@@ -1,15 +1,16 @@
 # 整地鯖アサルター用リソースパック
 
 **リソースパックについて**  
+- __**Fabric専用です。**__
+- Forge, Optifineはサポート対象外です。MITなので誰か対応してください、連絡いただければこちらにもリンク記載します。
 - 他のテクスチャと併用しても問題ありません。
 - オーバーワールド用として製作しています。
 - 好みの高さに変えたい場合は中のa.propertiesファイルのheightsを自分で変えてください。
 
 **導入**  
 - 希望の段数のzipファイルををresourcepacksディレクトリ内に配置してください。
-- ~~Forge、Optifine→[Optifine](https://optifine.net/downloads)が必要です。~~全て黄色になる不具合を確認しています。
 - Fabric→[Continuity](https://modrinth.com/mod/continuity/version/2.0.1+1.18.2)が必要です。Continuity以外にもCTMテクスチャを使用できるようにするMODがありますがサポート対象外とします。
-- FabricにてSodiumを使用する場合[Indium](https://modrinth.com/mod/indium/version/1.0.7+mc1.18.2)も必要になります。
+- Sodiumを使用する場合[Indium](https://modrinth.com/mod/indium/version/1.0.7+mc1.18.2)も必要になります。
 
 **ライセンス**  
 - MITライセンスに基づきます。
