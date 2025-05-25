@@ -7,8 +7,9 @@
 
 **導入**  
 - 希望の段数のzipファイルををresourcepacksディレクトリ内に配置してください。
-- Forge、Optifine→[Optifine](https://optifine.net/downloads)が必要です。
-- Fabric→[Continuity](https://modrinth.com/mod/continuity/version/2.0.1+1.18.2)が必要です。
+- ~~Forge、Optifine→[Optifine](https://optifine.net/downloads)が必要です。~~全て黄色になる不具合を確認しています。
+- Fabric→[Continuity](https://modrinth.com/mod/continuity/version/2.0.1+1.18.2)が必要です。Continuity以外にもCTMテクスチャを使用できるようにするMODがありますがサポート対象外とします。
+- FabricにてSodiumを使用する場合[Indium](https://modrinth.com/mod/indium/version/1.0.7+mc1.18.2)も必要になります。
 
 **ライセンス**  
 - MITライセンスに基づきます。
