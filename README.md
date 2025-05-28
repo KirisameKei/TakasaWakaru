@@ -2,7 +2,7 @@
 
 **リソースパックについて**  
 - __**Fabric専用です。**__
-- Forge, Optifineはサポート対象外です。MITなので誰か対応してください、連絡いただければこちらにもリンク記載します。
+- Forge, Optifineには使用できません。[こちら](https://github.com/Helium745/TakasaWakaru)で対応していただきました。
 - 他のテクスチャと併用しても問題ありません。
 - オーバーワールド用として製作しています。
 - 好みの高さに変えたい場合は中のa.propertiesファイルのheightsを自分で変えてください。
@@ -17,7 +17,8 @@
 - 詳細はLICENSE.txtを参照してください。
 
 **サポート**  
-[KirisameKeiのdiscordサーバ](https://discord.gg/nrvMKBT)にて行います。
+[KirisameKeiのdiscordサーバ](https://discord.gg/nrvMKBT)にて行います。  
+[Helium745氏作成のOptifine対応版](https://github.com/Helium745/TakasaWakaru)のサポートもこちらで行います。
 
 **制作環境**  
 fabric-loader-0.16.14-1.18.2
@@ -25,3 +26,4 @@ fabric-loader-0.16.14-1.18.2
 **更新履歴**  
 - 2022.01.12 Kuriがver1.12.2用に作成
 - 2025.05.05 KirisameKeiがver1.18.2用に更新
+- 2025.05.28 [Helium745がOptiFineに対応](https://github.com/Helium745/TakasaWakaru)
